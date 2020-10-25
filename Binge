@@ -11,6 +11,8 @@ http://bdvisioniptv.ddns.net:25461/live/nazim44/7631/130.m3u8
 https://ott.bingebd.com:443/live/ngrp:DTI20290-asWQdt-FGkiZXQoprt-03as-f7as-1ffd2-t16920a-sgh32x-zp3e-dsf-3b7QQaa-ort_621h_pea008910_e376nTY1_star_jalsha_hdPQWRT9023_945DF80_sjdFFfhSS_uiWQou_f36erTRxty_toyoRT007_DH/playlist.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Backup",Star Jalsha HD(Backup)
 http://bdvisioniptv.ddns.net:25461/live/nazim44/7631/863.m3u8
+EXTINF:0 tvg-logo="ext" group-title="Backup",Star Jalsha HD(Backup)
+http://ctgiptv.kitv.live:1935/live/test/test1/27.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Binge",Star Jalsha Movies
 https://ott.bingebd.com:443/live/ngrp:DTI20290-asWQdt-FGkiZXQoprt-03as-f7as-1ffd2-t16920a-sgh32x-zp3e-dsf-3b7QQaa-ort_621h_pea008910_e376nTY1_jalsha_moviesPQWRT9023_945DF80_sjdFFfhSS_uiWQou_f36erTRxty_toyoRT007_DH/playlist.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Backup",Star Jalsha Movies(Backup)
