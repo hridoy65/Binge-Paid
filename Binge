@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="ext" group-title="Backup",GTV
 http://bdvisioniptv.ddns.net:25461/live/nazim44/7631/122.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="Backup",Star Sports 1 HD(Backup)
+http://bdvisioniptv.ddns.net:25461/live/nazim44/7631/661.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Binge",Maasranga
 https://ott.bingebd.com:443/live/ngrp:DFyioo-asWQdt-sa459011GHQW-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7QQaa-ort_621h_briGHA005_eQWRT7193YZ_maasrangaPQRT_923780GFRQY_sjdFFfhSS_uiou_f36erTRxty_JEss63_DH/playlist.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Backup",Maasranga(Backup)
