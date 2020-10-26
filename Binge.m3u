@@ -13,6 +13,8 @@ http://bdvisioniptv.ddns.net:25461/live/nazim44/7631/863.m3u8
 https://ott.bingebd.com:443/live/ngrp:DTI20290-asWQdt-FGkiZXQoprt-03as-f7as-1ffd2-t16920a-sgh32x-zp3e-dsf-3b7QQaa-ort_621h_pea008910_e376nTY1_jalsha_moviesPQWRT9023_945DF80_sjdFFfhSS_uiWQou_f36erTRxty_toyoRT007_DH/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Backup",Star Jalsha Movies(Backup)
 http://bdvisioniptv.ddns.net:25461/live/nazim44/7631/203.m3u8
+#EXTINF:0 tvg-id="SONYSAB.uk" group-title="Backup",Sony Sab(Backup)
+http://bdvisioniptv.ddns.net:25461/live/nazim44/7631/657.m3u8
 #EXTINF:0 tvg-id="StarGoldHD.in" group-title="Binge",Star Gold HD
 https://ott.bingebd.com:443/live/ngrp:ZXOTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWTHRghQW_AQTY1025_star_goldPQRT_980_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
 #EXTINF:0 tvg-id="StarGoldHD.in" group-title="Backup",Star Gold HD(Backup)
