@@ -12,7 +12,7 @@ http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/27.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Binge",Star Jalsha Movies
 https://ott.bingebd.com/live/ngrp:DTI20300-asWQdt-FghewqNM-03as-f9as-1ffd2-t167810avbat-sgh32x-zp3e-dsf-3b7QQaa-ort_4561h_pea008910_e376nTY1_jalsha_moviesPQWRT9023_945DF_sjdFFfhSS_uizxnIJ1_f36erTRxty_toTRTWRT007_DH/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Backup",Star Jalsha Movies(Backup)
-http://bdvisioniptv.ddns.net:25461/live/nazim44/7631/203.m3u8
+http://otv.ftpbd.net:80/streams/115/index.m3u8
 #EXTINF:0 tvg-id="SONYSAB.uk" group-title="Backup",Sony Sab(Backup)
 http://bdvisioniptv.ddns.net:25461/live/nazim44/7631/657.m3u8
 #EXTINF:0 tvg-id="StarGoldHD.in" group-title="Binge",Star Gold HD
