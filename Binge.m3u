@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Backup",GTV(Backup)
-http://bdvisioniptv.ddns.net:25461/live/nazim44/7631/122.m3u8
+http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Binge",Maasranga
 https://ott.bingebd.com/live/ngrp:DTI20300-asWQdt-FghewqNM-03as-f9as-1ffd2-t167810avbat-sgh32x-zp3e-dsf-3b7QQaa-ort_4561h_pea008910_e376nTY1_maasrangaPQWRT9023_945DF_sjdFFfhSS_uizxnIJ1_f36erTRxty_toTRTWRT007_DH/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Backup",Maasranga(Backup)
