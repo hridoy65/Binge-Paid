@@ -1,85 +1,66 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Backup",GTV(Backup)
-http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Binge",Maasranga
-https://ott.bingebd.com/live/ngrp:DTI20300-asWQdt-FghewqNM-03as-f9as-1ffd2-t167810avbat-sgh32x-zp3e-dsf-3b7QQaa-ort_4561h_pea008910_e376nTY1_maasrangaPQWRT9023_945DF_sjdFFfhSS_uizxnIJ1_f36erTRxty_toTRTWRT007_DH/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Backup",Maasranga(Backup)
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Backup",Sony Sab HD(Backup)
-http://dx3.gcdn.co:80/hindi-SONYSABHD/index.m3u8
+https://ott.bingebd.com/live/ngrp:maasranga_all/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Binge",Star Jalsha HD
-https://ott.bingebd.com/live/ngrp:DTI20300-asWQdt-FghewqNM-03as-f9as-1ffd2-t167810avbat-sgh32x-zp3e-dsf-3b7QQaa-ort_4561h_pea008910_e376nTY1_star_jalsha_hdPQWRT9023_945DF_sjdFFfhSS_uizxnIJ1_f36erTRxty_toTRTWRT007_DH/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Backup",Star Jalsha HD(Backup)
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/27.m3u8
+https://ott.bingebd.com/live/ngrp:star_jalsha_hd_all/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Binge",Star Jalsha Movies
-https://ott.bingebd.com/live/ngrp:DTI20300-asWQdt-FghewqNM-03as-f9as-1ffd2-t167810avbat-sgh32x-zp3e-dsf-3b7QQaa-ort_4561h_pea008910_e376nTY1_jalsha_moviesPQWRT9023_945DF_sjdFFfhSS_uizxnIJ1_f36erTRxty_toTRTWRT007_DH/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Backup",Star Jalsha Movies(Backup)
-http://otv.ftpbd.net:80/streams/115/index.m3u8
-#EXTINF:0 tvg-id="SONYSAB.uk" group-title="Backup",Sony Sab(Backup)
-http://bdvisioniptv.ddns.net:25461/live/nazim44/7631/657.m3u8
+https://ott.bingebd.com/live/ngrp:jalsha_movies_all/playlist.m3u8
+
 #EXTINF:0 tvg-id="StarGoldHD.in" group-title="Binge",Star Gold HD
-https://ott.bingebd.com/live/ngrp:ZXO2010Tnhttps://ott.bingebd.com/live/ngrp:APNTn-asdt-s78dhsjTX-03as-f7as-1ffd2-t1asnd2a-sgh32x-zp3e-dsf-3bmaa-ort_621h_sWgtsrhQW_AQTY1025_star_goldPQRT_98sdfhs0_s90gshtrw_uiou_f36erxty_forsgst63_DH/playlist.m3u8
-#EXTINF:0 tvg-id="StarGoldHD.in" group-title="Backup",Star Gold HD(Backup)
-http://bdvisioniptv.ddns.net:25461/live/nazim44/7631/823.m3u8
+https://ott.bingebd.com/live/ngrp:star_gold_all/playlist.m3u8
+
 #EXTINF:0 tvg-id="StarGold.uk" group-title="Binge",Star Gold International
-https://ott.bingebd.com/live/ngrp:DTI20300-asWQdt-FghewqNM-03as-f9as-1ffd2-t167810avbat-sgh32x-zp3e-dsf-3b7QQaa-ort_4561h_pea008910_e376nTY1_star_gold_intlPQWRT9023_945DF_sjdFFfhSS_uizxnIJ1_f36erTRxty_toTRTWRT007_DH/playlist.m3u8
-#EXTINF:0 tvg-id="StarGold.uk" group-title="Backup",Star Gold International(Backup)
-http://bdvisioniptv.ddns.net:25461/live/nazim44/7631/161.m3u8
+https://ott.bingebd.com/live/ngrp:star_gold_intl_all/playlist.m3u8
+
 #EXTINF:0 tvg-id="StarPlus.uk" group-title="Binge",Star Plus
-https://ott.bingebd.com/live/ngrp:DTI20300-asWQdt-FghewqNM-03as-f9as-1ffd2-t167810avbat-sgh32x-zp3e-dsf-3b7QQaa-ort_4561h_pea008910_e376nTY1_star_plusPQWRT9023_945DF_sjdFFfhSS_uizxnIJ1_f36erTRxty_toTRTWRT007_DH/playlist.m3u8
-#EXTINF:0 tvg-id="StarPlus.uk" group-title="Backup",Star Plus(Backup)
-http://bdvisioniptv.ddns.net:25461/live/nazim44/7631/152.m3u8
+https://ott.bingebd.com/live/ngrp:star_plus_all/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Binge",Star Plus HD
-https://ott.bingebd.com/live/ngrp:ZXO2010Tnhttps://ott.bingebd.com/live/ngrp:APNTn-asdt-s78dhsjTX-03as-f7as-1ffd2-t1asnd2a-sgh32x-zp3e-dsf-3bmaa-ort_621h_sWgtsrhQW_AQTY1025_star_plus_hdPQRT_98sdfhs0_s90gshtrw_uiou_f36erxty_forsgst63_DH/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Backup",Star Plus HD(Backup)
-http://dx3.gcdn.co:80/hindi-STARPLUSindia/index.m3u8
+https://ott.bingebd.com/live/ngrp:star_plus_hd_all/playlist.m3u8
+
 #EXTINF:0 tvg-id="StarBharat.uk" group-title="Binge",Star Bharat
-https://ott.bingebd.com/live/ngrp:DTI20300-asWQdt-FghewqNM-03as-f9as-1ffd2-t167810avbat-sgh32x-zp3e-dsf-3b7QQaa-ort_4561h_pea008910_e376nTY1_star_bharatPQWRT9023_945DF_sjdFFfhSS_uizxnIJ1_f36erTRxty_toTRTWRT007_DH/playlist.m3u8
-#EXTINF:0 tvg-id="StarBharat.uk" group-title="Backup",Star Bharat(Backup)
-http://dx3.gcdn.co:80/hindi-STARBHARATHD/tracks-v1a1/mono.m3u8
+https://ott.bingebd.com/live/ngrp:star_bharat_all/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Binge",Colors Bangla
-https://ott.bingebd.com/live/ngrp:DTI20300-asWQdt-FghewqNM-03as-f9as-1ffd2-t167810avbat-sgh32x-zp3e-dsf-3b7QQaa-ort_4561h_pea008910_e376nTY1_colors_banglaPQWRT9023_945DF_sjdFFfhSS_uizxnIJ1_f36erTRxty_toTRTWRT007_DH/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Backup",Colors Bangla(Backup)
-http://103.102.136.106:8080/cmcltv/tcm_colorsbanglacm.m3u8
+https://ott.bingebd.com/live/ngrp:colors_bangla_all/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Binge",Colors Bangla HD
-https://ott.bingebd.com/live/ngrp:DTI20300-asWQdt-FghewqNM-03as-f9as-1ffd2-t167810avbat-sgh32x-zp3e-dsf-3b7QQaa-ort_4561h_pea008910_e376nTY1_colors_bangla_hdPQWRT9023_945DF_sjdFFfhSS_uizxnIJ1_f36erTRxty_toTRTWRT007_DH/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:colors_bangla_hd_all/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Binge",Colors HD
-https://ott.bingebd.com/live/ngrp:DTI20300-asWQdt-FghewqNM-03as-f9as-1ffd2-t167810avbat-sgh32x-zp3e-dsf-3b7QQaa-ort_4561h_pea008910_e376nTY1_colors_hdPQWRT9023_945DF_sjdFFfhSS_uizxnIJ1_f36erTRxty_toTRTWRT007_DH/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Backup",Colors HD(Backup)
-http://dx3.gcdn.co:80/hindi-COLORSHD/tracks-v1a1/mono.m3u8
+https://ott.bingebd.com/live/ngrp:colors_hd_all/playlist.m3u8
+
 #EXTINF:0 tvg-id="Colors.uk" group-title="Binge",Colors
-https://ott.bingebd.com/live/ngrp:DTI20300-asWQdt-FghewqNM-03as-f9as-1ffd2-t167810avbat-sgh32x-zp3e-dsf-3b7QQaa-ort_4561h_pea008910_e376nTY1_colors_asiaPQWRT9023_945DF_sjdFFfhSS_uizxnIJ1_f36erTRxty_toTRTWRT007_DH/playlist.m3u8
-#EXTINF:0 tvg-id="Colors.uk" group-title="Backup",Colors(Backup)
-http://bdvisioniptv.ddns.net:25461/live/nazim44/7631/105.m3u8
+https://ott.bingebd.com/live/ngrp:colors_asia_all/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Binge",Colors Rishtey
-https://ott.bingebd.com/live/ngrp:SQWCVR00w-asWQdt-FGkw-03as-f7wq-1FDd2-t16910a-sgh32x-zp3e-dsf-3b7QQaa-ort_621h_dha00Iq_e36710RT_rishteyPQZXCV9DF_945DF_sjdFF87216fhSS_uiWQou_f32erTRxty_pea0190E_DH/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:rishtey_all/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Binge",National Geographic
-https://ott.bingebd.com/live/ngrp:DTI20300-asWQdt-FghewqNM-03as-f9as-1ffd2-t167810avbat-sgh32x-zp3e-dsf-3b7QQaa-ort_4561h_pea008910_e376nTY1_nat_geo_inPQWRT9023_945DF_sjdFFfhSS_uizxnIJ1_f36erTRxty_toTRTWRT007_DH/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Backup",National Geographic (dual language)(Backup)
-http://bdvisioniptv.ddns.net:25461/live/nazim44/7631/138.m3u8
+https://ott.bingebd.com/live/ngrp:nat_geo_in_all/playlist.m3u8
+
 #EXTINF:0 tvg-id="NGCWild.eu" group-title="Binge",Nat Geo Wild
-https://ott.bingebd.com/live/ngrp:DTI20300-asWQdt-FghewqNM-03as-f9as-1ffd2-t167810avbat-sgh32x-zp3e-dsf-3b7QQaa-ort_4561h_pea008910_e376nTY1_nat_geo_wildPQWRT9023_945DF_sjdFFfhSS_uizxnIJ1_f36erTRxty_toTRTWRT007_DH/playlist.m3u8
-#EXTINF:0 tvg-id="NGCWild.eu" group-title="Backup",Nat Geo Wild(Backup)
-http://bdvisioniptv.ddns.net:25461/live/nazim44/7631/139.m3u8
+https://ott.bingebd.com/live/ngrp:nat_geo_wild_all/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Binge",Nick HD+
-https://ott.bingebd.com/live/ngrp:SQWCVR00w-asWQdt-FGkw-03as-f7wq-1FDd2-t16910a-sgh32x-zp3e-dsf-3b7QQaa-ort_621h_dha00Iq_e36710RT_nick_hdPQZXCV9DF_945DF_sjdFF87216fhSS_uiWQou_f32erTRxty_pea0190E_DH/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:nick_hd_all/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Binge",Nick Jr
-https://ott.bingebd.com/live/ngrp:ZXO2010Tnhttps://ott.bingebd.com/live/ngrp:APNTn-asdt-s78dhsjTX-03as-f7as-1ffd2-t1asnd2a-sgh32x-zp3e-dsf-3bmaa-ort_621h_sWgtsrhQW_AQTY1025_nick_jrPQRT_98sdfhs0_s90gshtrw_uiou_f36erxty_forsgst63_DH/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:nick_jr_all/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Binge",History TV HD
-https://ott.bingebd.com/live/ngrp:DTI20300-asWQdt-FghewqNM-03as-f9as-1ffd2-t167810avbat-sgh32x-zp3e-dsf-3b7QQaa-ort_4561h_pea008910_e376nTY1_history_tv_hdPQWRT9023_945DF_sjdFFfhSS_uizxnIJ1_f36erTRxty_toTRTWRT007_DH/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Backup",History TV HD(Backup)
-http://bdvisioniptv.ddns.net:25461/live/nazim44/7631/128.m3u8
+https://ott.bingebd.com/live/ngrp:history_tv_hd_all/playlist.m3u8
+
 #EXTINF:0 tvg-id="MTV.uk" group-title="Binge",MTV Beats
-https://ott.bingebd.com/live/ngrp:SQWCVR00w-asWQdt-FGkw-03as-f7wq-1FDd2-t16910a-sgh32x-zp3e-dsf-3b7QQaa-ort_621h_dha00Iq_e36710RT_mtv_beatsPQZXCV9DF_945DF_sjdFF87216fhSS_uiWQou_f32erTRxty_pea0190E_DH/playlist.m3u8
-#EXTINF:0 tvg-id="MTV.uk" group-title="Backup",MTV Beats(Backup)
-http://bdvisioniptv.ddns.net:25461/live/nazim44/7631/163.m3u8
+https://ott.bingebd.com/live/ngrp:mtv_beats_all/playlist.m3u8
+
 #EXTINF:0 tvg-id="9XJalwa.in" group-title="Binge",9x Jalwa
-https://ott.bingebd.com/live/ngrp:ZXO2010Tnhttps://ott.bingebd.com/live/ngrp:APNTn-asdt-s78dhsjTX-03as-f7as-1ffd2-t1asnd2a-sgh32x-zp3e-dsf-3bmaa-ort_621h_sWgtsrhQW_AQTY1025_9x_jalwaPQRT_98sdfhs0_s90gshtrw_uiou_f36erxty_forsgst63_DH/playlist.m3u8
-#EXTINF:0 tvg-id="9XJalwa.in" group-title="Backup",9x Jalwa(Backup)
-http://d2q8p4pe5spbak.cloudfront.net:80/bpk-tv/9XJalwa/9XJalwa.isml/index.m3u8
+https://ott.bingebd.com/live/ngrp:9x_jalwa_all/playlist.m3u8
+
 #EXTINF:0 tvg-id="zoom" group-title="Binge",Zoom
-https://ott.bingebd.com/live/ngrp:SQWCVR00w-asWQdt-FGkw-03as-f7wq-1FDd2-t16910a-sgh32x-zp3e-dsf-3b7QQaa-ort_621h_dha00Iq_e36710RT_zoomPQZXCV9DF_945DF_sjdFF87216fhSS_uiWQou_f32erTRxty_pea0190E_DH/playlist.m3u8
-#EXTINF:0 tvg-id="zoom" group-title="Backup",Zoom(Backup)
-http://bdvisioniptv.ddns.net:25461/live/nazim44/7631/159.m3u8
+https://ott.bingebd.com/live/ngrp:zoom_all/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Binge",VH1
-https://ott.bingebd.com/live/ngrp:SQWCVR00w-asWQdt-FGkw-03as-f7wq-1FDd2-t16910a-sgh32x-zp3e-dsf-3b7QQaa-ort_621h_dha00Iq_e36710RT_vh1PQZXCV9DF_945DF_sjdFF87216fhSS_uiWQou_f32erTRxty_pea0190E_DH/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:vh1_all/playlist.m3u8
