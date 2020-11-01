@@ -1,69 +1,66 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Binge",Maasranga
-https://ott.bingebd.com/live/ngrp:maasranga_all/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_maasrangaPQRT_98sdfhs0_f36erxty_forsgst63_DH/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Binge",Star Jalsha HD
-https://ott.bingebd.com/live/ngrp:star_jalsha_hd_all/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_star_jalsha_hdPQRT_98sdfhs0_f36erxty_forsgst63_DH/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Binge",Star Jalsha Movies
-https://ott.bingebd.com/live/ngrp:jalsha_movies_all/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Backup",Star Jalsha Movies(Backup)
-http://bdvisioniptv.ddns.net:25461/live/sajeeb33/P288/203.m3u8
+https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_jalsha_moviesPQRT_98sdfhs0_f36erxty_forsgst63_DH/playlist.m3u8
 
 #EXTINF:0 tvg-id="StarGoldHD.in" group-title="Binge",Star Gold HD
-https://ott.bingebd.com/live/ngrp:star_gold_all/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_star_goldPQRT_98sdfhs0_f36erxty_forsgst63_DH/playlist.m3u8
 
 #EXTINF:0 tvg-id="StarGold.uk" group-title="Binge",Star Gold International
-https://ott.bingebd.com/live/ngrp:star_gold_intl_all/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_star_gold_intlPQRT_98sdfhs0_f36erxty_forsgst63_DH/playlist.m3u8
 
 #EXTINF:0 tvg-id="StarPlus.uk" group-title="Binge",Star Plus
-https://ott.bingebd.com/live/ngrp:star_plus_all/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_star_plusPQRT_98sdfhs0_f36erxty_forsgst63_DH/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Binge",Star Plus HD
-https://ott.bingebd.com/live/ngrp:star_plus_hd_all/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_star_plus_hdPQRT_98sdfhs0_f36erxty_forsgst63_DH/playlist.m3u8
 
 #EXTINF:0 tvg-id="StarBharat.uk" group-title="Binge",Star Bharat
-https://ott.bingebd.com/live/ngrp:star_bharat_all/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_star_bharatPQRT_98sdfhs0_f36erxty_forsgst63_DH/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Binge",Colors Bangla
-https://ott.bingebd.com/live/ngrp:colors_bangla_all/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_colors_banglaPQRT_98sdfhs0_f36erxty_forsgst63_DH/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Binge",Colors Bangla HD
-https://ott.bingebd.com/live/ngrp:colors_bangla_hd_all/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_colors_bangla_hdPQRT_98sdfhs0_f36erxty_forsgst63_DH/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Binge",Colors HD
-https://ott.bingebd.com/live/ngrp:colors_hd_all/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_colors_hdPQRT_98sdfhs0_f36erxty_forsgst63_DH/playlist.m3u8
 
 #EXTINF:0 tvg-id="Colors.uk" group-title="Binge",Colors
-https://ott.bingebd.com/live/ngrp:colors_asia_all/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_colors_asiaPQRT_98sdfhs0_f36erxty_forsgst63_DH/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Binge",Colors Rishtey
-https://ott.bingebd.com/live/ngrp:rishtey_all/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_rishteyPQRT_98sdfhs0_f36erxty_forsgst63_DH/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Binge",National Geographic
-https://ott.bingebd.com/live/ngrp:nat_geo_in_all/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_nat_geo_inPQRT_98sdfhs0_f36erxty_forsgst63_DH/playlist.m3u8
 
 #EXTINF:0 tvg-id="NGCWild.eu" group-title="Binge",Nat Geo Wild
-https://ott.bingebd.com/live/ngrp:nat_geo_wild_all/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_nat_geo_wildPQRT_98sdfhs0_f36erxty_forsgst63_DH/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Binge",Nick HD+
-https://ott.bingebd.com/live/ngrp:nick_hd_all/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_nick_hdPQRT_98sdfhs0_f36erxty_forsgst63_DH/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Binge",Nick Jr
-https://ott.bingebd.com/live/ngrp:nick_jr_all/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_nick_jrPQRT_98sdfhs0_f36erxty_forsgst63_DH/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Binge",History TV HD
-https://ott.bingebd.com/live/ngrp:history_tv_hd_all/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_history_tv_hdPQRT_98sdfhs0_f36erxty_forsgst63_DH/playlist.m3u8
 
 #EXTINF:0 tvg-id="MTV.uk" group-title="Binge",MTV Beats
-https://ott.bingebd.com/live/ngrp:mtv_beats_all/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_mtv_beatsPQRT_98sdfhs0_f36erxty_forsgst63_DH/playlist.m3u8
 
 #EXTINF:0 tvg-id="9XJalwa.in" group-title="Binge",9x Jalwa
-https://ott.bingebd.com/live/ngrp:9x_jalwa_all/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_9x_jalwaPQRT_98sdfhs0_f36erxty_forsgst63_DH/playlist.m3u8
 
 #EXTINF:0 tvg-id="zoom" group-title="Binge",Zoom
-https://ott.bingebd.com/live/ngrp:zoom_all/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_zoomPQRT_98sdfhs0_f36erxty_forsgst63_DH/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Binge",VH1
-https://ott.bingebd.com/live/ngrp:vh1_all/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_vh1PQRT_98sdfhs0_f36erxty_forsgst63_DH/playlist.m3u8
