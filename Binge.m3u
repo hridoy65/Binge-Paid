@@ -8,6 +8,9 @@ https://ott.bingebd.com/live/ngrp:star_jalsha_hd_all/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Binge",Star Jalsha Movies
 https://ott.bingebd.com/live/ngrp:jalsha_movies_all/playlist.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Backup",Star Jalsha Movies(Backup)
+http://bdvisioniptv.ddns.net:25461/live/sajeeb33/P288/203.m3u8
+
 #EXTINF:0 tvg-id="StarGoldHD.in" group-title="Binge",Star Gold HD
 https://ott.bingebd.com/live/ngrp:star_gold_all/playlist.m3u8
 
